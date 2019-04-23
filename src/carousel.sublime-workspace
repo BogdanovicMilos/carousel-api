@@ -1,0 +1,510 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Con",
+				"ConnectionError"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "users/api/urls.py",
+			"settings":
+			{
+				"buffer_size": 221,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "users/api/views.py",
+			"settings":
+			{
+				"buffer_size": 1154,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "users/models.py",
+			"settings":
+			{
+				"buffer_size": 1397,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Python3.7.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Python3.7.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/User/Python3.7.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"a file icon",
+				"A File Icon: Settings"
+			],
+			[
+				"Box",
+				"Boxy Theme: Preferences"
+			],
+			[
+				"boxy theme: ",
+				"Boxy Theme: Preferences"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/milosbogdanovic/Developer/carousel-api",
+		"/Users/milosbogdanovic/Developer/carousel-api/src",
+		"/Users/milosbogdanovic/Developer/carousel-api/src/carousel",
+		"/Users/milosbogdanovic/Developer/carousel-api/src/users",
+		"/Users/milosbogdanovic/Developer/carousel-api/src/users/api"
+	],
+	"file_history":
+	[
+		"/Users/milosbogdanovic/Developer/carousel-api/src/users/models.py",
+		"/Users/milosbogdanovic/Developer/carousel-api/src/users/admin.py",
+		"/Users/milosbogdanovic/Developer/carousel-api/src/users/api/views.py",
+		"/Users/milosbogdanovic/Developer/carousel-api/src/users/api/urls.py",
+		"/Users/milosbogdanovic/Developer/carousel-api/src/carousel/urls.py",
+		"/Users/milosbogdanovic/Developer/carousel-api/src/carousel/mixins.py",
+		"/Users/milosbogdanovic/Developer/carousel-api/src/users/api/__init__.py",
+		"/Users/milosbogdanovic/Developer/carousel-api/src/carousel/settings.py",
+		"/Users/milosbogdanovic/Developer/carousel-api/requirements.txt",
+		"/Users/milosbogdanovic/Developer/carousel-api/src/db.sqlite3",
+		"/Users/milosbogdanovic/Developer/carousel-api/src/users/api/mixins.py",
+		"/Users/milosbogdanovic/Developer/carousel-api/lib/python3.7/site-packages/django/conf/urls/__init__.py",
+		"/Users/milosbogdanovic/Developer/carousel-api/lib/python3.7/site-packages/django/core/files/storage.py",
+		"/Users/milosbogdanovic/Developer/carousel-api/docker-compose.yml",
+		"/Users/milosbogdanovic/Developer/carousel-api/Dockerfile",
+		"/Users/milosbogdanovic/Developer/restapi/src/updates/api/urls.py",
+		"/Users/milosbogdanovic/Developer/restapi/src/cfeapi/urls.py",
+		"/Users/milosbogdanovic/Developer/restapi/src/updates/api/views.py",
+		"/Users/milosbogdanovic/Developer/carousel-api/scripts/test_api.py",
+		"/Users/milosbogdanovic/Developer/restapi/src/updates/models.py",
+		"/Users/milosbogdanovic/Developer/restapi/src/updates/api/mixins.py",
+		"/Users/milosbogdanovic/Developer/carousel-api/src/users/api/utils.py",
+		"/Users/milosbogdanovic/Developer/carousel-api/src/users/forms.py",
+		"/Users/milosbogdanovic/Developer/restapi/src/updates/forms.py",
+		"/Users/milosbogdanovic/Developer/restapi/src/cfeapi/mixins.py",
+		"/Users/milosbogdanovic/Developer/restapi/src/updates/api/utils.py",
+		"/Users/milosbogdanovic/Developer/django-mvt-blog/django_project/users/models.py",
+		"/Users/milosbogdanovic/Developer/restapi/src/accounts/models.py",
+		"/Users/milosbogdanovic/Developer/restapi/src/status/models.py",
+		"/Users/milosbogdanovic/Developer/restapi/src/updates/views.py",
+		"/Users/milosbogdanovic/Developer/restapi/src/cfeapi/restconf/pagination.py",
+		"/Users/milosbogdanovic/Developer/restapi/src/status/views.py",
+		"/Users/milosbogdanovic/Developer/restapi/src/status/api/views.py",
+		"/Users/milosbogdanovic/Developer/ml-project/src/model.py",
+		"/Users/milosbogdanovic/Developer/ml-project/src/ser.py",
+		"/Users/milosbogdanovic/Developer/ml-project/src/app.py",
+		"/Users/milosbogdanovic/Developer/ml-project/src/server.py",
+		"/Users/milosbogdanovic/Developer/ml-project/src/request.py",
+		"/Users/milosbogdanovic/Developer/ml-project/src/flask_project.py",
+		"/Users/milosbogdanovic/Downloads/[FreeTutorials.Eu] Udemy - Python for Computer Vision with OpenCV and Deep Learning/1. Course Overview and Introduction/Computer-Vision-with-Python/cvcourse_macos.yml",
+		"/Users/milosbogdanovic/Developer/restapi/src/status/api/tests.py",
+		"/Users/milosbogdanovic/Developer/restapi/src/accounts/tests.py",
+		"/Users/milosbogdanovic/Developer/restapi/src/status/api/urls.py",
+		"/Users/milosbogdanovic/Developer/restapi/src/status/tests.py",
+		"/Users/milosbogdanovic/Developer/restapi/scripts/cfe_rest_framework_api.py",
+		"/Users/milosbogdanovic/Developer/restapi/src/accounts/api/tests.py",
+		"/Users/milosbogdanovic/Developer/restapi/src/accounts/api/urls.py",
+		"/Users/milosbogdanovic/Developer/restapi/src/accounts/api/test_user_api.py",
+		"/Users/milosbogdanovic/Developer/restapi/src/accounts/api/serializers.py",
+		"/Users/milosbogdanovic/Developer/restapi/src/accounts/api/user/views.py",
+		"/Users/milosbogdanovic/Developer/restapi/src/accounts/api/user/serializers.py",
+		"/Users/milosbogdanovic/Developer/restapi/src/cfeapi/restconf/main.py",
+		"/Users/milosbogdanovic/Developer/restapi/src/accounts/api/views.py",
+		"/Users/milosbogdanovic/Developer/restapi/src/accounts/api/user/urls.py",
+		"/Users/milosbogdanovic/Developer/restapi/src/status/api/serializers.py",
+		"/Users/milosbogdanovic/Developer/restapi/src/accounts/api/urls_user.py",
+		"/Users/milosbogdanovic/Developer/restapi/src/accounts/api/user/__init__.py",
+		"/Users/milosbogdanovic/Developer/restapi/src/accounts/api/permissions.py",
+		"/Users/milosbogdanovic/Developer/restapi/src/accounts/api/utils.py",
+		"/Users/milosbogdanovic/Developer/restapi/src/accounts/api/__init__.py",
+		"/Users/milosbogdanovic/Developer/restapi/src/cfeapi/settings.py",
+		"/Users/milosbogdanovic/Developer/restapi/src/cfeapi/restconf/__init__.py",
+		"/Users/milosbogdanovic/Developer/restapi/bin/python-config",
+		"/Users/milosbogdanovic/Developer/restapi/scripts/mike.jpg",
+		"/Users/milosbogdanovic/Desktop/mike-tyson-wallpapers-27133-3506974.jpg",
+		"/Users/milosbogdanovic/Developer/restapi/src/status/admin.py",
+		"/Users/milosbogdanovic/Developer/restapi/.gitignore",
+		"/Users/milosbogdanovic/Developer/restapi/src/status/forms.py",
+		"/Users/milosbogdanovic/Developer/restapi/src/status/api/shell.py",
+		"/Users/milosbogdanovic/Developer/restapi/src/status/api/__init__.py",
+		"/Users/milosbogdanovic/Developer/restapi/scripts/cfe_pure_api.py",
+		"/Users/milosbogdanovic/Developer/restapi/src/updates/api/__init__.py",
+		"/Users/milosbogdanovic/Developer/restapi/src/updates/admin.py",
+		"/Users/milosbogdanovic/Developer/carousel-rest-api/carousel/src/carousel/carousel/urls.py",
+		"/Users/milosbogdanovic/Developer/carousel-rest-api/carousel/src/carousel/posts/urls.py",
+		"/Users/milosbogdanovic/Developer/carousel-rest-api/carousel/src/carousel/posts/serializers.py",
+		"/Users/milosbogdanovic/Developer/carousel-rest-api/carousel/src/carousel/posts/views.py",
+		"/Users/milosbogdanovic/Developer/carousel-rest-api/carousel/src/carousel/posts/models.py",
+		"/Users/milosbogdanovic/Developer/carousel-rest-api/carousel/src/carousel/carousel/settings.py",
+		"/Users/milosbogdanovic/Developer/carousel-rest-api/carousel/src/carousel/posts/admin.py",
+		"/Users/milosbogdanovic/Developer/carousel-rest-api/README.md",
+		"/Users/milosbogdanovic/Developer/carousel-rest-api/.gitignore",
+		"/Users/milosbogdanovic/Developer/carousel-rest-api/carousel/src/carousel/users/urls.py",
+		"/Users/milosbogdanovic/Developer/carousel-rest-api/carousel/src/carousel/users/views.py",
+		"/Users/milosbogdanovic/Developer/carousel-rest-api/carousel/src/carousel/users/serializers.py",
+		"/Users/milosbogdanovic/Developer/carousel-rest-api/carousel/src/carousel/users/models.py",
+		"/Users/milosbogdanovic/Developer/carousel-rest-api/carousel/src/carousel/users/admin.py",
+		"/Users/milosbogdanovic/Developer/carousel-rest-api/carousel/src/carousel/api/models.py",
+		"/Users/milosbogdanovic/Developer/carousel-rest-api/carousel/src/carousel/api/admin.py",
+		"/Users/milosbogdanovic/Developer/carousel-rest-api/carousel/src/carousel_api/admin.py",
+		"/Users/milosbogdanovic/Developer/carousel-rest-api/carousel/src/carousel_api/models.py",
+		"/Users/milosbogdanovic/Developer/carousel-rest-api/carousel/src/api/admin.py",
+		"/Users/milosbogdanovic/Developer/carousel-rest-api/carousel/src/api/models.py",
+		"/Users/milosbogdanovic/Developer/carousel-rest-api/src/api/admin.py",
+		"/Users/milosbogdanovic/Developer/carousel-rest-api/src/api/apps.py",
+		"/Users/milosbogdanovic/Developer/carousel-rest-api/src/carousel/carousel/settings.py",
+		"/Users/milosbogdanovic/Developer/carousel-rest-api/src/api/models.py",
+		"/Users/milosbogdanovic/Developer/carousel-rest-api/src/carousel_project/carousel_api/tests.py",
+		"/Users/milosbogdanovic/Developer/carousel-rest-api/src/carousel_project/carousel_api/models.py",
+		"/Users/milosbogdanovic/Developer/carousel-rest-api/src/carousel_project/carousel_api/serializers.py",
+		"/Users/milosbogdanovic/Developer/carousel-rest-api/src/carousel_project/carousel_api/urls.py",
+		"/Users/milosbogdanovic/Developer/carousel-rest-api/src/carousel_project/carousel_project/urls.py",
+		"/Users/milosbogdanovic/Developer/carousel-rest-api/src/carousel_project/carousel_api/admin.py",
+		"/Users/milosbogdanovic/Developer/carousel-rest-api/src/carousel_project/carousel_project/settings.py",
+		"/Users/milosbogdanovic/Developer/carousel-rest-api/src/carousel_project/carousel_api/views.py",
+		"/Users/milosbogdanovic/Developer/carousel-rest-api/src/carousel_project/carousel_api/permissions.py",
+		"/Users/milosbogdanovic/Developer/carousel-rest-api/hello_world.py",
+		"/Users/milosbogdanovic/Developer/carousel-rest-api/Vagrantfile",
+		"/Users/milosbogdanovic/Developer/django-mvt-blog/django_project/blog/templates/blog/base.html",
+		"/Users/milosbogdanovic/Developer/django-mvt-blog/django_project/blog/static/blog/main.css",
+		"/Users/milosbogdanovic/Developer/django-mvt-blog/django_project/users/templates/users/contact.html",
+		"/Users/milosbogdanovic/Developer/django-mvt-blog/django_project/users/templates/users/logout.html",
+		"/Users/milosbogdanovic/Developer/django-mvt-blog/django_project/blog/templates/blog/about.html",
+		"/Users/milosbogdanovic/Developer/django-mvt-blog/django_project/blog/templates/blog/search_posts.html",
+		"/Users/milosbogdanovic/Developer/django-mvt-blog/django_project/blog/templates/blog/home.html",
+		"/Users/milosbogdanovic/Developer/django-mvt-blog/django_project/users/templates/users/register.html",
+		"/Users/milosbogdanovic/Developer/django-mvt-blog/django_project/users/templates/users/login.html",
+		"/Users/milosbogdanovic/Developer/django-mvt-blog/django_project/blog/views.py",
+		"/Users/milosbogdanovic/Developer/django-mvt-blog/django_project/blog/urls.py",
+		"/Users/milosbogdanovic/Developer/Environments/django_project/blog/templates/blog/home.html",
+		"/Users/milosbogdanovic/Developer/Environments/django_project/blog/templates/blog/base.html",
+		"/Users/milosbogdanovic/Developer/django-mvt-blog/django_project/blog/static/blog/bootstrap-social.css",
+		"/Users/milosbogdanovic/Developer/django-mvt-blog/django_project/users/apps.py",
+		"/Users/milosbogdanovic/Developer/django-mvt-blog/django_project/django_project/settings.py",
+		"/Users/milosbogdanovic/Developer/django-mvt-blog/django_project/django_project/urls.py",
+		"/Users/milosbogdanovic/Developer/django-mvt-blog/django_project/users/views.py",
+		"/Users/milosbogdanovic/Developer/django-mvt-blog/django_project/users/forms.py",
+		"/Users/milosbogdanovic/Developer/django-mvt-blog/django_project/blog/templates/blog/post_detail.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "users/api/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 221,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								221,
+								221
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "users/api/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1154,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "users/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1397,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 238.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Python3.7.sublime-build",
+	"project": "carousel.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 198.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}
